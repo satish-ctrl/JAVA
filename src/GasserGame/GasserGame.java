@@ -76,7 +76,7 @@ class Umpire{
 
     }
 
-}chan
+}//jfdjffsdi
 
 //MAIN CLASS
 public class GasserGame {
